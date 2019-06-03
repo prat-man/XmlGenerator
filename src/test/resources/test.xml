@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee empId="E1">
+        <fName>Pratanu</fName>
+        <lName>Mandal</lName>
+        <address>
+            <houseNo>1</houseNo>
+            <street>ABC Street</street>
+            <city>XYZ City</city>
+            <state>PQR State</state>
+            <country>India</country>
+            <pin>xxxxxx</pin>
+        </address>
+    </employee>
+    <employee empId="E2">
+        <fName>Kartik</fName>
+        <lName>Tiwari</lName>
+        <address>
+            <houseNo>2</houseNo>
+            <street>MNO Street</street>
+            <city>BCD City</city>
+            <state>JKL State</state>
+            <country>India</country>
+            <pin>xxxxxx</pin>
+        </address>
+    </employee>
+</employees>
